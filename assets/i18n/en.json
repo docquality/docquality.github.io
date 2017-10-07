@@ -1,0 +1,118 @@
+{
+  "navbar": {
+    "services": "Services",
+    "about": "About Us",
+    "products": "Products",
+    "video": "Video",
+    "news": "News",
+    "contacts": "Contact Us"
+  },
+  "slider": {
+    "videoId": "zDPZmM6PMRU"
+  },
+  "three-boxes": {
+    "box-1": {
+      "title": "The quality and the certifications",
+      "description": "With the goal of keep high quality standard, all the production steps are managed following the ISO 9001 regulation. We pay particular attention and respect to the environment, offering materials with PEFC and FSC certifications."
+    },
+    "box-2": {
+      "title": "Technology and Innovation",
+      "description": "Our daily commitment, supported by constants technology investments, is focused on optimizing our production processes and to grant the client's satisfaction with the quality and efficiency of our product."
+    },
+    "box-3": {
+      "title": "Planning",
+      "description": "DOC is your best partner for designing. Working together with you and your projects. Realising the best solutions for your needs is our mission."
+    }
+  },
+  "services": {
+    "title": "Specialised in kitchen doors, furniture components and kits",
+    "description": "DOC is specialised in the production and commercialisation of furniture doors and semi-finished products with a melaminec finishing, moreover in the making and packaging of furniture kits",
+    "s1": {
+      "title": "Experience",
+      "description": "30 years of experience in serving clients"
+    },
+    "s2": {
+      "title": "Made in Italy",
+      "description": "DOC has a strong link with its territorial roots which has been able to valorise its traditions."
+    },
+    "s3": {
+      "title": "Quality",
+      "description": "Our objective is to satisfy your requests and to continually improve."
+    },
+    "s4": {
+      "title": "Flexibility",
+      "description": "Thanks to our production plant's flexibility we are able to satisfy great volumes as we are small batches"
+    }
+  },
+  "four-boxes": {
+    "c1": {
+      "title": "30 years of innovation and quality service given to clients",
+      "description": "DOC is born in a territory which knew how to develop and conserve its values and traditions, that territory is Veneto. Since 1987 it has invested until reaching a significant dimension of 4 productive units and more than 70 employees"
+    },
+    "c2_1": {
+      "title": "Forniture Doors",
+      "description": "This is where Doc has reached the maximum level of quality investing in state of the art technology within this sector."
+    },
+    "c2_2": {
+      "title": "Forniture Components",
+      "description": "As for furniture doors, DOC guarantees the best quality in the market regarding semi-finished products."
+    },
+    "c2_3": {
+      "title": "Forniture Kits",
+      "description": "Either for clients specifications or for our own projects, DOC supplies kit furniture for all types of environments"
+    }
+  },
+  "parallax-section": {
+    "title": "Some Data",
+    "item-1": {
+      "icon": "users",
+      "title": "70",
+      "description": "Employees"
+    },
+    "item-2": {
+      "icon": "users",
+      "title": "20000",
+      "description": "Mq Coverage"
+    },
+    "item-3": {
+      "icon": "users",
+      "title": "4",
+      "description": "Production Units"
+    },
+    "item-4": {
+      "icon": "users",
+      "title": "2",
+      "description": "Founders"
+    }
+  },
+  "products": {
+    "title": "Our Products"
+  },
+  "video": {
+    "title": "Watch our video",
+    "description": "DOC is convinced about the importance of continual progress and pays attention to customer satisfaction regarding both the product and the provided service.",
+    "button": "Watch the video",
+    "video-link": "https://www.youtube.com/watch?v=tF2QRiqilWM",
+    "video-embed": "https://www.youtube.com/embed/tF2QRiqilWM"
+  },
+  "news": {
+    "title": "News and Events",
+    "description": "Read our latest news!"
+  },
+  "contacts": {
+    "title": "Contact Us",
+    "description": "DOC is specialised in the production and commercialisation of furniture doors and semi-finished products with a melaminec finishing, moreover in the making and packaging of furniture kits.",
+    "address": "Via Campania, 25, 31025 Motta di Livenza TV",
+    "phone": "+39 0422 287900",
+    "email": "info@docquality.it",
+    "form": {
+      "submit": "SUBMIT",
+      "message": "Your Message",
+      "subject": "Subject",
+      "email": "Your Email (required)",
+      "name": "Your Name (required)",
+      "name_ph": "Enter your Name",
+      "email_ph": "Enter your Email"
+    }
+  }
+}

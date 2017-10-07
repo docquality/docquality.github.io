@@ -1,0 +1,118 @@
+{
+  "navbar": {
+    "services": "Servizi",
+    "about": "Chi Siamo",
+    "products": "Prodotti",
+    "video": "Video",
+    "news": "Notizie",
+    "contacts": "Contatti"
+  },
+  "slider": {
+    "videoId": "zDPZmM6PMRU"
+  },
+  "three-boxes": {
+    "box-1": {
+      "title": "La qualità e le certificazioni",
+      "description": "CON L’OBIETTIVO DI MANTENERE ELEVATI STANDARD QUALITATIVI, TUTTE LE FASI DI PRODUZIONE SONO GESTITE SECONDO LE NORME ISO 9001. PONIAMO PARTICOLARE ATTENZIONE AL RISPETTO DELL’AMBIENTE ED OFFRIAMO MATERIALI CERTIFICATI PEFC E FSC."
+    },
+    "box-2": {
+      "title": "Tecnologia e innovazione",
+      "description": "IL NOSTRO IMPEGNO QUOTIDIANO, SUPPORTATO DA COSTANTI INVESTIMENTI TECNOLOGICI, È FOCALIZZATO NELL’OTTIMIZZARE I PROCESSI PRODUTTIVI PER GARANTIRE LA PIENA SODDISFAZIONE DEL CLIENTE IN TERMINI DI QUALITÀ DEL PRODOTTO ED EFFICIENZA."
+    },
+    "box-3": {
+      "title": "Progettazione",
+      "description": "DOC, IL VOSTRO MIGLIOR PARTNER NELLA PROGETTAZIONE. REALIZZIAMO INSIEME A VOI I VOSTRI PROGETTI. CONCRETIZZARE LE MIGLIORI SOLUZIONI ALLE VOSTRE ESIGENZE È LA NOSTRA MISSIONE."
+    }
+  },
+  "services": {
+    "title": "SPECIALIZZATI IN ANTE, COMPONENTI PER MOBILI E SCOCCHE IN KIT",
+    "description": "DOC è specializzata nella produzione e commercializzazione di ante per mobili e semilavorati in melaminico oltre che nella realizzazione e confezionamento di scocche in kit.",
+    "s1": {
+      "title": "Esperienza",
+      "description": "30 anni di esperienza al servizio dei nostri clienti per dare forma e concretezza alle loro necessità"
+    },
+    "s2": {
+      "title": "Made in Italy",
+      "description": "DOC ha un forte legame ad un territorio che ha saputo valorizzare le proprie tradizioni."
+    },
+    "s3": {
+      "title": "Qualità",
+      "description": "Il nostro obiettivo è la soddisfazione dei vostri requisiti e il miglioramento continuo."
+    },
+    "s4": {
+      "title": "Flessibilità",
+      "description": "Grazie alla flessibilità dei nostri impianti siamo in grado di soddisfare grandi volumi come piccoli lotti."
+    }
+  },
+  "four-boxes": {
+    "c1": {
+      "title": "30 ANNI DI INNOVAZIONE E QUALITÀ AL SERVIZIO DEL CLIENTE",
+      "description": "DOC nasce in un territorio, quello Veneto, cha ha saputo sviluppare e conservare valori e tradizioni. Dal 1987 ha investito fino a raggiungere una significativa dimensione, con 4 unità produttive ed oltre 70 addetti."
+    },
+    "c2_1": {
+      "title": "Ante",
+      "description": "Dove DOC ha raggiunto il massimo livello qualitativo, impiegando tecnologie di riferimento nel settore."
+    },
+    "c2_2": {
+      "title": "Componenti per mobili",
+      "description": "Come per le ante, anche nei semilavorati DOC garantisce la migliore qualità nel mercato."
+    },
+    "c2_3": {
+      "title": "Mobili in kit",
+      "description": "Sia su specifiche del cliente che di nostra progettazione, DOC fornisce mobili in kit per tutti gli ambienti."
+    }
+  },
+  "parallax-section": {
+    "title": "Alcuni Dati",
+    "item-1": {
+      "icon": "users",
+      "title": "70",
+      "description": "Dipendenti"
+    },
+    "item-2": {
+      "icon": "users",
+      "title": "20000",
+      "description": "Mq Coperti"
+    },
+    "item-3": {
+      "icon": "users",
+      "title": "4",
+      "description": "Unità Produttive"
+    },
+    "item-4": {
+      "icon": "users",
+      "title": "2",
+      "description": "Fondatori"
+    }
+  },
+  "products": {
+    "title": "I nostri prodotti"
+  },
+  "video": {
+    "title": "Guarda il nostro video",
+    "description": "DOC è convinta dell’importanza del miglioramento continuo intrapreso da anni ed è attenta alla soddisfazione del cliente sia sul prodotto che sul servizio erogato.",
+    "button": "Guarda il video",
+    "video-link": "https://www.youtube.com/watch?v=tF2QRiqilWM",
+    "video-embed": "https://www.youtube.com/embed/tF2QRiqilWM"
+  },
+  "news": {
+    "title": "News ed Eventi",
+    "description": "Tieniti informato sulle nostre ultime notizie e novità!"
+  },
+  "contacts": {
+    "title": "Contattaci",
+    "description": "DOC è specializzata nella produzione e commercializzazione di ante per mobili e semilavorati in melaminico oltre che nella realizzazione e confezionamento di scocche in kit.",
+    "address": "Via Campania, 25, 31025 Motta di Livenza TV",
+    "phone": "+39 0422 287900",
+    "email": "info@docquality.it",
+    "form": {
+      "submit": "INVIA",
+      "message": "Messaggio",
+      "subject": "Soggetto",
+      "email": "La tua Email (*)",
+      "name": "Il tuo Nome (*)",
+      "name_ph": "Inserisci il tuo Nome",
+      "email_ph": "Inserisci la tua Email"
+    }
+  }
+}
